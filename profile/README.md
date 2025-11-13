@@ -1,4 +1,4 @@
-# GCP Logging, Monitoring, and Incident Response Project
+# 🚀 GCP Logging, Monitoring, and Incident Response Project
 
 Welcome to our organization! We are a team of three students—**Eliza, Ewelina, and Maria**—collaborating on a comprehensive project for our Cloud Computing & DevOps course.
 
