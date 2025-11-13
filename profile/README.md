@@ -1,6 +1,6 @@
 # GCP Logging, Monitoring, and Incident Response Project
 
-Welcome to our organization! We are a team of three students—**Eliza, Ewelina, and Maria**—collaborating on a comprehensive project for our Google Cloud Platform course.
+Welcome to our organization! We are a team of three students—**Eliza, Ewelina, and Maria**—collaborating on a comprehensive project for our Cloud Computing & DevOps course.
 
 Our mission is to design, implement, and document a robust, production-grade monitoring and observability system using GCP's native tools.
 
