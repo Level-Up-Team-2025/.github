@@ -46,7 +46,7 @@ Meet the members responsible for bringing this system to life!
 | **Maria** |  GCP Project Owner & Developer | [GitHub](https://github.com/mnukui) | 
 | **Eliza** | Project Planning & System Design | [GitHub](https://github.com/epetrycka) |
 | **Ewelina** | Developer & Team Coordinator | [GitHub](https://github.com/ewemalina) | 
-| **Marta** | Developer & Technical Documentation | [GitHub](https://github.com/marta-gh) |
+| **Marta** | Developer & Technical Documentation | [GitHub](https://github.com/martam-gh) |
 
 ---
 
